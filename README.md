@@ -5,13 +5,8 @@
 - 🎓 Studying Electrical Engineering at Sungkyunkwan University!
 - 📚 Learing more about Embedded-system.
 
-### Skills
-- 🌳
-- 🌱
+### Tech I've used
 
-### BOJ
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purplehej)](https://solved.ac/purplehej)
 
 
 <!--
