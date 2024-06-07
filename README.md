@@ -1,5 +1,4 @@
 ## Hi there! I'm Eunji. 👋
-<img src="https://img.shields.io/badge/purplehej@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### 😄 About Me
 - Studying Electrical Engineering at Sungkyunkwan University!
@@ -9,6 +8,9 @@
 - Language
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+### Contact me
+<img src="https://img.shields.io/badge/purplehej@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!--
 **EJiHwang/EJiHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
