@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/purplehej@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=red"/>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purplehej)](https://solved.ac/purplehej)
 
