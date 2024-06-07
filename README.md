@@ -1,11 +1,11 @@
 ## Hi there! I'm Eunji. 👋
 <img src="https://img.shields.io/badge/purplehej@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-### About Me
-- 🎓 Studying Electrical Engineering at Sungkyunkwan University!
-- 📚 Learing more about Embedded-system.
+### 😄 About Me
+- Studying Electrical Engineering at Sungkyunkwan University!
+- Learing more about Embedded-system.
 
-### Tech I've used
+### 🛠 Tech I've used
 - Language
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
